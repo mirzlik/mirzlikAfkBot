@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "VsemPrivet185",
+    "username": "MirzlikBot0921",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "MirzlikKombat.aternos.me",
     "port": 35219,
-    "version": "1.16.5",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "1234567"
+      "password": "1q12345"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
